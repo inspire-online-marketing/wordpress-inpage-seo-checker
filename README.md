@@ -18,7 +18,7 @@ Versions
 
 1.0
 
-* [options] - awesome web-based text editor
+* [options] - created menu under settings
 
 
 License
